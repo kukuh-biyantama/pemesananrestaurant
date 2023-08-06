@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftarMenu">
+        <item>Tempe Bacem</item>
+        <item>Ayam Bakar</item>
+        <item>Lontong</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Tempe yang di bacem</item>
+        <item>Ayam dibakar kecap</item>
+        <item>Lontong opor + ayam</item>
+    </string-array>
+    <string-array name="Harga">
+        <item>2000</item>
+        <item>8000</item>
+        <item>15000</item>
+    </string-array>
+    <array name="fotoMakanan">
+        <item>@drawable/tempebacem</item>
+        <item>@drawable/ayambakar</item>
+        <item>@drawable/lontongsayur</item>
+    </array>
+</resources>

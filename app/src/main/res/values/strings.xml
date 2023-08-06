@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pilihmenuResto</string>
+    <string name="pilihMenu">Pilih Menu</string>
+    <string name="header">Tempe Bacem</string>
+    <string name="description">Tempe yang dibacem</string>
+    <string name="harga">50000</string>
+</resources>
